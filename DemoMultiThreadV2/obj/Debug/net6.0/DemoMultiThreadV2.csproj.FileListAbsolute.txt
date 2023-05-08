@@ -1,0 +1,15 @@
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\bin\Debug\net6.0\DemoMultiThreadV2.exe
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\bin\Debug\net6.0\DemoMultiThreadV2.deps.json
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\bin\Debug\net6.0\DemoMultiThreadV2.runtimeconfig.json
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\bin\Debug\net6.0\DemoMultiThreadV2.dll
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\bin\Debug\net6.0\DemoMultiThreadV2.pdb
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.csproj.AssemblyReference.cache
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.AssemblyInfoInputs.cache
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.AssemblyInfo.cs
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.csproj.CoreCompileInputs.cache
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.dll
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\refint\DemoMultiThreadV2.dll
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.pdb
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\DemoMultiThreadV2.genruntimeconfig.cache
+C:\IDB_Alan\C#\DemoMultiThreadV2\DemoMultiThreadV2\obj\Debug\net6.0\ref\DemoMultiThreadV2.dll
